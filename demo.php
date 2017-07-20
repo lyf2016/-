@@ -1,5 +1,3 @@
-# -
-foreache与php在循环输出的对应关系
 
 <?php
 
