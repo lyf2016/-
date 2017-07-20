@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+    <body>
 <div id="one_arr"> 一维数组 </div>
 <div id="two_arr"> 二维数组 </div>
 <div id="obj"> 键值数组 </div>
@@ -30,3 +33,5 @@
 
 });
 </script>
+    </body>
+</html>
